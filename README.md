@@ -1,6 +1,8 @@
 # Node Tools 22
 
-Nodes Tools (node, chromium, angular/cli, commitizen, etc) | Docker Images de type NodeJS à destination des dev (avec utilitaires pour "devcontainer")
+Nodes Tools (NodeJS, Chromium, Angular/cli, Commitizen, etc)
+
+> Docker Images de type NodeJS à destination des dev (avec utilitaires pour "devcontainer / sonarqube / etc")
 
 ## Préparation (Manuelle)
 
