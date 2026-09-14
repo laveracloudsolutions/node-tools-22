@@ -4,7 +4,7 @@ FROM ghcr.io/laveracloudsolutions/node:22-trixie-slim
 RUN apt-get update
 RUN apt-get upgrade -y
 RUN apt-get install -qy chromium
-RUN apt-get install -qy openjdk-17-jre
+RUN apt-get install -qy openjdk-21-jre
 RUN apt-get install -qy git
 RUN apt-get install -qy curl
 
